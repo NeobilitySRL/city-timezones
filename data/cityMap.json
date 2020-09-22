@@ -69362,6 +69362,18 @@
     "timezone": "Europe/Stockholm"
   },
   {
+    "city": "Malmo",
+    "city_ascii": "Malmo",
+    "lat": 55.58333722,
+    "lng": 13.03330237,
+    "pop": 265448.5,
+    "country": "Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "province": "Skåne",
+    "timezone": "Europe/Stockholm"
+  },
+  {
     "city": "Malmö",
     "city_ascii": "Malmo",
     "lat": 55.58333722,
