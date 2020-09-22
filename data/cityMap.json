@@ -85638,6 +85638,18 @@
     "timezone": "America/Los_Angeles"
   },
   {
+    "city": "Washington DC",
+    "city_ascii": "Washington DC",
+    "lat": 38.89954938,
+    "lng": -77.00941858,
+    "pop": 2445216.5,
+    "country": "United States of America",
+    "iso2": "US",
+    "iso3": "USA",
+    "province": "District of Columbia",
+    "timezone": "America/New_York"
+  },
+  {
     "city": "Washington, D.C.",
     "city_ascii": "Washington, D.C.",
     "lat": 38.89954938,
