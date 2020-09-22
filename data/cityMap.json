@@ -56918,6 +56918,18 @@
     "timezone": "Europe/Warsaw"
   },
   {
+    "city": "Łódź",
+    "city_ascii": "Lodz",
+    "lat": 51.77499086,
+    "lng": 19.45136023,
+    "pop": 758000,
+    "country": "Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "province": "Lódz",
+    "timezone": "Europe/Warsaw"
+  },
+  {
     "city": "Lódz",
     "city_ascii": "Lodz",
     "lat": 51.77499086,
