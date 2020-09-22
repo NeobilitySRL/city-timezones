@@ -83658,6 +83658,19 @@
     "timezone": "America/Denver"
   },
   {
+    "city": "Milwaukie",
+    "city_ascii": "Milwaukie",
+    "lat": 45.4462,
+    "lng": -122.6393,
+    "pop": 21014,
+    "country": "United States of America",
+    "iso2": "US",
+    "iso3": "USA",
+    "province": "Oregon",
+    "state_ansi": "OR",
+    "timezone": "America/Los_Angeles"
+  },
+  {
     "city": "Eugene",
     "city_ascii": "Eugene",
     "lat": 44.05001019,
