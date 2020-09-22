@@ -56726,6 +56726,18 @@
     "timezone": "Asia/Manila"
   },
   {
+    "city": "Torun",
+    "city_ascii": "Torun",
+    "lat": 53.01375,
+    "lng": 18.59814,
+    "pop": 199469,
+    "country": "Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "province": "Warmian-Masurian",
+    "timezone": "Europe/Warsaw"
+  },
+  {
     "city": "Olsztyn",
     "city_ascii": "Olsztyn",
     "lat": 53.80003522,
