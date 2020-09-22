@@ -69314,6 +69314,18 @@
     "timezone": "Europe/Stockholm"
   },
   {
+    "city": "Gothenberg",
+    "city_ascii": "Goteborg",
+    "lat": 57.75000083,
+    "lng": 12.0000321,
+    "pop": 520940.5,
+    "country": "Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "province": "Västra Götaland",
+    "timezone": "Europe/Stockholm"
+  },
+  {
     "city": "Göteborg",
     "city_ascii": "Goteborg",
     "lat": 57.75000083,
