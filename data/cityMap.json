@@ -27901,6 +27901,18 @@
     "timezone": "Europe/Copenhagen"
   },
   {
+    "city": "Aarhus",
+    "city_ascii": "Aarhus",
+    "lat": 56.157204,
+    "lng": 10.21068396,
+    "pop": 232325.5,
+    "country": "Denmark",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "province": "Midtjylland",
+    "timezone": "Europe/Copenhagen"
+  },
+  {
     "city": "Århus",
     "city_ascii": "Aarhus",
     "lat": 56.157204,
