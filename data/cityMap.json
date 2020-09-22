@@ -57422,6 +57422,18 @@
     "timezone": "Asia/Qatar"
   },
   {
+    "city": "Alba-Iulia",
+    "city_ascii": "Alba-Iulia",
+    "lat": 46.06667,
+    "lng": 23.58333,
+    "pop": 63536,
+    "country": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "province": "Alba-Iulia",
+    "timezone": "Europe/Bucharest"
+  },
+  {
     "city": "Targu Jiu",
     "city_ascii": "Targu Jiu",
     "lat": 45.04500004,
