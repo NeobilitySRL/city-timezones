@@ -31933,6 +31933,18 @@
     "timezone": "Europe/Berlin"
   },
   {
+    "city": "Dusseldorf",
+    "city_ascii": "Dusseldorf",
+    "lat": 51.22037355,
+    "lng": 6.779988972,
+    "pop": 906196.5,
+    "country": "Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "province": "Nordrhein-Westfalen",
+    "timezone": "Europe/Berlin"
+  },
+  {
     "city": "Düsseldorf",
     "city_ascii": "Dusseldorf",
     "lat": 51.22037355,
