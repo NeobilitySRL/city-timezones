@@ -30241,6 +30241,18 @@
     "timezone": "Pacific/Fiji"
   },
   {
+    "city": "Hämeenlinna",
+    "city_ascii": "Hameenlinna",
+    "lat": 60.99699611,
+    "lng": 24.47199954,
+    "pop": 47261,
+    "country": "Finland",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "province": "Tavastia Proper",
+    "timezone": "Europe/Helsinki"
+  },
+  {
     "city": "Hameenlinna",
     "city_ascii": "Hameenlinna",
     "lat": 60.99699611,
