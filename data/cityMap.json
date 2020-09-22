@@ -40597,6 +40597,18 @@
     "timezone": "Europe/Rome"
   },
   {
+    "city": "Milano",
+    "city_ascii": "Milano",
+    "lat": 45.4699752,
+    "lng": 9.20500891,
+    "pop": 2125830.5,
+    "country": "Italy",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "province": "Lombardia",
+    "timezone": "Europe/Rome"
+  },
+  {
     "city": "Milan",
     "city_ascii": "Milan",
     "lat": 45.4699752,
