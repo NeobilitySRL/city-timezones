@@ -75218,6 +75218,18 @@
     "timezone": "Europe/London"
   },
   {
+    "city": "Milton Keynes",
+    "city_ascii": "Milton Keynes",
+    "lat": 52.0417,
+    "lng": -0.7558,
+    "pop": 229941,
+    "country": "United Kingdom",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "province": "Buckinghamshire",
+    "timezone": "Europe/London"
+  },
+  {
     "city": "Southend-on-Sea",
     "city_ascii": "Southend",
     "lat": 51.55001752,
