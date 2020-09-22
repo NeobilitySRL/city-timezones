@@ -69602,6 +69602,18 @@
     "timezone": "Europe/Zurich"
   },
   {
+    "city": "Zurich",
+    "city_ascii": "Zurich",
+    "lat": 47.37998781,
+    "lng": 8.55001013,
+    "pop": 724865,
+    "country": "Switzerland",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "province": "Zürich",
+    "timezone": "Europe/Zurich"
+  },
+  {
     "city": "Zürich",
     "city_ascii": "Zurich",
     "lat": 47.37998781,
