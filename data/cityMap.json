@@ -77992,6 +77992,19 @@
     "timezone": "America/New_York"
   },
   {
+    "city": "Silver Spring",
+    "city_ascii": "Silver Spring",
+    "lat": 38.994373,
+    "lng": -77.029778,
+    "pop": 71452,
+    "country": "United States of America",
+    "iso2": "US",
+    "iso3": "USA",
+    "province": "Maryland",
+    "state_ansi": "MD",
+    "timezone": "America/New_York"
+  },
+  {
     "city": "St. Charles",
     "city_ascii": "St. Charles",
     "lat": 38.60305585,
