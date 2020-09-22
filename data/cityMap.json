@@ -79849,6 +79849,19 @@
     "timezone": "America/Denver"
   },
   {
+    "city": "West Valley City",
+    "city_ascii": "West Valley City",
+    "lat": 40.689167,
+    "lng": -111.993889,
+    "pop": 136401,
+    "country": "United States of America",
+    "iso2": "US",
+    "iso3": "USA",
+    "province": "Utah",
+    "state_ansi": "UT",
+    "timezone": "America/Denver"
+  },
+  {
     "city": "Cedar City",
     "city_ascii": "Cedar City",
     "lat": 37.67742759,
