@@ -57014,6 +57014,18 @@
     "timezone": "Europe/Warsaw"
   },
   {
+    "city": "Bielsko-Biala",
+    "city_ascii": "Bielsko-Biala",
+    "lat": 49.82245,
+    "lng": 19.04686,
+    "pop": 170663,
+    "country": "Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "province": "Lesser Poland",
+    "timezone": "Europe/Warsaw"
+  },
+  {
     "city": "Kraków",
     "city_ascii": "Krakow",
     "lat": 50.05997927,
