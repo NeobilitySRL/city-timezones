@@ -7944,6 +7944,18 @@
     "timezone": "Europe/Brussels"
   },
   {
+    "city": "Antwerp",
+    "city_ascii": "Antwerpen",
+    "lat": 51.22037355,
+    "lng": 4.415017048,
+    "pop": 689902.5,
+    "country": "Belgium",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "province": "Antwerp",
+    "timezone": "Europe/Brussels"
+  },
+  {
     "city": "Antwerpen",
     "city_ascii": "Antwerpen",
     "lat": 51.22037355,
