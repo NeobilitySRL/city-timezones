@@ -31717,6 +31717,18 @@
     "timezone": "Asia/Tbilisi"
   },
   {
+    "city": "Bochum",
+    "city_ascii": "Bochum",
+    "lat": 51.481846,
+    "lng": 7.216236,
+    "pop": 364742,
+    "country": "Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "province": "Ruhr",
+    "timezone": "Europe/Berlin"
+  },
+  {
     "city": "Mainz",
     "city_ascii": "Mainz",
     "lat": 49.98247246,
