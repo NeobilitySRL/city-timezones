@@ -76574,6 +76574,19 @@
     "timezone": "America/Chicago"
   },
   {
+    "city": "Plano",
+    "city_ascii": "Plano",
+    "lat": 33.019844,
+    "lng": -96.698883,
+    "pop": 283558,
+    "country": "United States of America",
+    "iso2": "US",
+    "iso3": "USA",
+    "province": "Texas",
+    "state_ansi": "TX",
+    "timezone": "America/Chicago"
+  },
+  {
     "city": "San Marcos",
     "city_ascii": "San Marcos",
     "lat": 29.88307131,
