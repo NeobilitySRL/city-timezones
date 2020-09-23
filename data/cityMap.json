@@ -30649,6 +30649,18 @@
     "timezone": "Europe/Paris"
   },
   {
+    "city": "Cergy",
+    "city_ascii": "Cergy",
+    "lat": 49.0350,
+    "lng": 2.0578,
+    "pop": 63395,
+    "country": "France",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "province": "Languedoc-Roussillon",
+    "timezone": "Europe/Paris"
+  },
+  {
     "city": "Perpignan",
     "city_ascii": "Perpignan",
     "lat": 42.69998924,
