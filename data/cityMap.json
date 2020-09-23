@@ -30637,6 +30637,18 @@
     "timezone": "Europe/Paris"
   },
   {
+    "city": "Vannes",
+    "city_ascii": "Vannes",
+    "lat": 47.66667,
+    "lng": -2.75,
+    "pop": 53200,
+    "country": "France",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "province": "Languedoc-Roussillon",
+    "timezone": "Europe/Paris"
+  },
+  {
     "city": "Perpignan",
     "city_ascii": "Perpignan",
     "lat": 42.69998924,
@@ -68232,6 +68244,18 @@
     "iso3": "ESP",
     "province": "",
     "timezone": "Atlantic/Canary"
+  },
+  {
+    "city": "Sevilla",
+    "city_ascii": "Sevilla",
+    "lat": 37.40501528,
+    "lng": -5.980007366,
+    "pop": 957533,
+    "country": "Spain",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "province": "Andalucía",
+    "timezone": "Europe/Madrid"
   },
   {
     "city": "Seville",
