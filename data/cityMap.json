@@ -30661,6 +30661,18 @@
     "timezone": "Europe/Paris"
   },
   {
+    "city": "Avignon",
+    "city_ascii": "Avignon",
+    "lat": 43.949318,
+    "lng": 4.805528,
+    "pop": 92130,
+    "country": "France",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "province": "Auvergne",
+    "timezone": "Europe/Paris"
+  },
+  {
     "city": "Clermont-Ferrand",
     "city_ascii": "Clermont-Ferrand",
     "lat": 45.77998212,
