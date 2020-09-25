@@ -1,9 +1,11 @@
 "use strict";
 const _ = require('lodash')
 const cityMapping = require('./data/cityMap.json')
+const cityMappingDict = require('./data/cityMapDict.json')
+
 
 function lookupViaCity(city) {
-  const cityLookup = _.filter(cityMapping, function (o) { return o.city.toLowerCase() === city.toLowerCase() })
+  const cityLookup = cityMappingDict[city.toLowerCase()];
   if (cityLookup && cityLookup.length) {
     return cityLookup
   } else {
